@@ -1,5 +1,9 @@
 body{
-background-color:lightblue;
+--background-color:lightblue;
+background-image: url("file:///C:/Users/I63705/chamu_project/tajmahal.jpg");
+background-repeat:no-repeat
+background-position:center; 
+background-size: 50%;
 }
 h1{
 color:navy;
